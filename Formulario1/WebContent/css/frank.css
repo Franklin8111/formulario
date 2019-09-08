@@ -1,0 +1,62 @@
+body
+{
+	margin-top: 15px;
+}
+
+.entrada
+{
+	font-size: 18px;
+	font-weight: bold;
+}
+.texto
+{
+	margin-top: 5px;
+	font-size: 15px;
+}
+.texto1
+{
+	float: left;
+	margin-right: 10px;
+	margin-top: 4px;
+}
+
+img
+{
+	width: 250px;
+	float: left;
+	margin-left: -300px;
+}
+
+h1
+{
+	float: left;
+	margin-left: 478px;
+	font-size: 25px;
+}
+h2
+{
+	margin-top: 20px;
+	margin-left: 8px;
+}
+
+  .btn
+   {
+	border-radius: 3px;
+	display: inline-block;
+	padding: 10px 15px;
+	text-decoration: none;
+	text-shadow: 0 1px 0 rgba(255,255,255,0.3);
+	box-shadow: 0 1px 1px rgba(0,0,0,0.3); 
+}
+
+.btn-green{
+	color: white;
+	background-color: #3CC93F;
+}
+
+.btn-green:hover{
+	background-color: transparent;	
+}
+.btn-green:active{
+	background-color: black;
+}
